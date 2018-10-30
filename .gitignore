@@ -1,0 +1,10 @@
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.qvd
+*.qvf
+*qvw
+*.log
+*.index
